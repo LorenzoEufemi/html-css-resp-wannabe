@@ -1,0 +1,44 @@
+/* tablet */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* mobile */
+@media screen and (max-width: 480px) {
+    .row {
+        display: block;
+
+    }
+    
+/*  
+    .lessons {
+        background-color: #232946;
+    }
+
+    main {
+        background-color: black;
+    }
+    */
+    .why-us {
+        background-color: black;
+
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+}
