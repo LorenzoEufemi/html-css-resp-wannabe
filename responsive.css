@@ -11,12 +11,15 @@
         display: block;
 
     }
-    
+  
     .why-us {
         background-color: black;
-
+padding: 3rem 0;
+margin-bottom: 0;
     }
-
+    .steps {
+        margin-bottom: 0;
+    }
     .lessons .col {
         width: 100%;
     }
